@@ -16,12 +16,15 @@ The `Fade Obstruction System` is a Unity asset that automatically applies a fade
 
 ## Installation
 
-1.  Go to **Window > Package Manager**.
+**Important:** This asset is only compatible with the **Universal Render Pipeline (URP)**.
 
-2.  Click the **+** button → **Add package from git URL...**.
+1.  Open **Window > Package Manager** in Unity.
 
-3.  Paste the repo URL: https://github.com/douglasdasilva17/com.supertactic.fadeobstructionsystem.git
+2.  Click the **+** button and select **Add package from git URL...**.
 
+3.  Paste the following URL: https://github.com/douglasdasilva17/com.supertactic.fadeobstructionsystem.git
+
+---
 
 ## How to use
 
