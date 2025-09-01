@@ -1,0 +1,26 @@
+{
+  "name": "com.supertactic.fadeobstructionsystem",
+  "displayName": "Fade Obstruction System",
+  "version": "1.0.0",
+  "description": "Automatically fades objects that obstruct the camera view, keeping player visibility clear in URP projects.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.12"
+  },
+  "author": {
+    "name": "Supertactic Studio",
+    "email": "contato@supertacticstudio.com",
+    "url": "https://supertacticstudio.com"
+  },
+  "keywords": [
+	"URP",
+	"shader",
+	"graphics"
+  ],
+  "samples": [
+  {
+    "displayName": "Getting Started",
+    "description": "Learn how to quickly set up and use the Fade Obstruction System.",
+    "path": "Samples~/GettingStartedSample"
+  }
+}
