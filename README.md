@@ -21,3 +21,14 @@ The `Fade Obstruction System` is a Unity asset that automatically applies a fade
 2.  Click the **+** button → **Add package from git URL...**.
 
 3.  Paste the repo URL: https://github.com/douglasdasilva17/com.supertactic.fadeobstructionsystem.git
+
+
+## How to use
+
+1.  Create a **Layer Mask** for the **obstacle** object. 
+
+2.  Attach the script `FadingObject` to your **obstacle** object.
+
+3.  Attach the script `FadeObjectBlockingObject` to your Player.
+
+4.  Done!
